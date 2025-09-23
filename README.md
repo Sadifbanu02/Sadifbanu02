@@ -50,7 +50,6 @@ Here are some of the repos I’ve worked on:
 | **pro_ject**           | A JavaScript-based interactive web project.               |
 | **SQL**                | Learning and practising SQL queries & databases.          |
 | **HTML-CSS_projects**  | Various websites / page layouts built with HTML & CSS.     |
-| **Sadifbanu02**        | (Your own profile / sandbox or misc projects)              |
 
 *(More coming soon…)*
 
