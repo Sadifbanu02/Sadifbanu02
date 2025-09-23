@@ -67,7 +67,7 @@ Here are some of the repos I’ve worked on:
 ## 📫 How to Reach Me
 
 - GitHub: [Sadifbanu02](https://github.com/Sadifbanu02)  
-- *(You can include your email or Twitter / LinkedIn / portfolio link if you want)*  
+- LinkedIn:[Sadifbanu](https://www.linkedin.com/in/sadifbanu/)
 
 ---
 
