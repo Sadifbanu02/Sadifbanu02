@@ -30,12 +30,12 @@ Welcome to my GitHub profile!
 
 ## 🧰 Skills & Technologies
 
-| Front-End         | Others / Tools             |
-|-------------------|-----------------------------|
-| HTML, CSS         | Git, GitHub                 |
-| JavaScript        | Responsive Design           |
-| Basic SQL         | Debugging & Testing         |
-| Design with CSS   | Command Line Basics         |
+| Front-End         | Others / Tools                             |
+|-------------------|--------------------------------------------|
+| HTML, CSS         | Git, GitHub                                |
+| JavaScript        | Responsive Design                          |
+| Basic SQL         | Debugging & Testing                        |
+| Design with CSS   | Command Line Basics                        |
 
 ---
 
