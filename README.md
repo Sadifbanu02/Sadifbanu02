@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_# Hi there 👋 I’m ✨Sadifbanu ✨   
-Welcome to my GitHub profile! 
+_# Hi there 👋 ✨I’m Sadifbanu ✨   
+***Welcome to my GitHub profile! ***
 
 ---
 
