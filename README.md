@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_# Hi there 👋 ✨I’m Sadifbanu ✨   
+# Hi there 👋 ✨I’m Sadifbanu ✨   
 ***Welcome to my GitHub profile!***
 
 ---
@@ -42,10 +42,10 @@ _# Hi there 👋 ✨I’m Sadifbanu ✨
 
 Here are some of the repos I’ve worked on:
 
-| Repository            | Description                                               |
+| Repository             | Description                                                 |
 |------------------------|------------------------------------------------------------|
-| **pro_ject**           | A JavaScript-based interactive web project.               |
-| **SQL**                | Learning and practising SQL queries & databases.          |
+| **pro_ject**           | A JavaScript-based interactive web project.                |
+| **SQL**                | Learning and practising SQL queries & databases.           |
 | **HTML-CSS_projects**  | Various websites / page layouts built with HTML & CSS.     |
 
 *(More coming soon…)*
