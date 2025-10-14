@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🔭 About Me
 
 - 🔬 I’m passionate about web development, front-end design, and learning new technologies.  
-- 👩‍💻 I love building projects with **HTML, CSS, JavaScript**, and exploring frameworks/tools around them.  
+- 👩‍💻 I love building projects with **HTML, CSS, JavaScript**, and exploring frameworks/tools around them.     
 - 📚 I always try to improve my SQL skills and understand back-end & databases better.  
 - 🌱 Currently learning modern JavaScript frameworks, responsive design, and good version control practices.  
 - 💬 I enjoy collaborating, seeking feedback, and contributing to open source when possible.  
