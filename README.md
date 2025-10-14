@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning modern JavaScript frameworks, responsive design, and good version control practices.  
 - 💬 I enjoy collaborating, seeking feedback, and contributing to open source when possible.  
 
----
+--- 
 
 ## 🧰 Skills & Technologies
 
