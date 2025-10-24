@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 | Front-End         | Others / Tools                             |
 |-------------------|--------------------------------------------|
-| HTML, CSS         | Git, GitHub                                |
-| JavaScript        | Responsive Design                          |
-| Basic SQL         | Debugging & Testing                        |
-| Design with CSS   | Command Line Basics                        |
+|   HTML, CSS         | Git, GitHub                                |
+|   JavaScript        | Responsive Design                          |
+|   Basic SQL         | Debugging & Testing                        |
+|   Design with CSS   | Command Line Basics                        |
 
 ---
 
