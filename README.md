@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 🧰 Skills & Technologies
 
-| Front-End         | Others / Tools                             |
-|-------------------|--------------------------------------------|
+| Front-End           | Others / Tools                             |
+|---------------------|--------------------------------------------|
 |   HTML, CSS         | Git, GitHub                                |
 |   JavaScript        | Responsive Design                          |
 |   Basic SQL         | Debugging & Testing                        |
