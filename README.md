@@ -63,8 +63,8 @@ Here are some of the repos I’ve worked on:
 
 ## 📫 How to Reach Me
 
-- GitHub: [Sadifbanu02](https://github.com/Sadifbanu02)  
-- LinkedIn:[Sadifbanu](https://www.linkedin.com/in/sadifbanu/)
+- GitHub:  [Sadifbanu02](https://github.com/Sadifbanu02)  
+- LinkedIn:  [Sadifbanu](https://www.linkedin.com/in/sadifbanu/)
 
 ---
 
